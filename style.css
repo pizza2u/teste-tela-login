@@ -60,11 +60,13 @@ body {
   }
   
   button.create-account {
-    background-color: #fff; /* Alterando a cor de fundo para branco */
+    background-color: #fff;
+    color: black; /* Alterando a cor de fundo para branco */
   }
   
   button:hover {
     background-color: #00994d;
+    color: #fff;
   }
   
   .options {
